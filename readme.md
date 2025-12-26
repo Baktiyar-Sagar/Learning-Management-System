@@ -442,87 +442,82 @@ POST   /api/lms/enrollments/               # Enroll in course
 
 Clean authentication interface with forgot password option.
 
-![login page](image-1.png)
+![login page](lms-ss/login.png)
 
 Registration interface
 
-![Registration page](image-2.png)
+![Registration page](lms-ss/registration.png)
 
 Reset password: click Forget password link
 
-step-1: Use valid gmail that was used for registration
+- step-1: Use valid gmail that was used for registration
+- step-2: Check the email inbox and click the link for reset password
+- step-3: After clicking the link this interface will show up, Now Reset password in 15 minutes
 
-![alt text](image-19.png)
+![alt text](lms-ss/reset-password.png)
 
-step-2: check the email inbox and click the link for reset password
-
-![alt text](image-21.png)
-
-step-3:after clicking the link this interface will show up, Now Reset password in 15 minutes
-
-![alt text](image-20.png)
 ### Admin's interface:
 
 Dashboard:
 
-![alt text](admin_dashboard.png)
+![alt text](lms-ss/admin_dashboard.png)
 
 Check Student ( in a Modal ): Dashboard -> Courses & Enrollment Details -> Actions -> click "View Students:" button
 
-![alt text](image-3.png)
+![alt text](lms-ss/admin_student_view_modal.png)
 
 Courses List:
 
-![alt text](admin_courses.png)
+![alt text](lms-ss/admin_courses.png)
 
 Create Course: Courses -> click "+ Create Course' button
 
-![alt text](admin_create_course.png)
+![alt text](lms-ss/admin_create_course.png)
 
 Category:
 
-![alt text](admin_category.png)
+![alt text](lms-ss/admin_category.png)
 
 Create new category: 
 
-![alt text](image-7.png)
+![alt text](lms-ss/admin-create-category.png)
 
 Profile Page:
 
-![alt text](image-8.png)
+![alt text](lms-ss/admin-profile-page.png)
 
 
 ### Instructor's interface:
 
 Instructors Dashboard:
 
-![alt text](image-15.png)
+![alt text](lms-ss/Instructor_dashboard.png)
 
 View students for a particular course: click "view" button in dashboard page
 
-![alt text](image-18.png)
+![alt text](lms-ss/Instructor_students_view_modal.png)
 
 Instructor Add lessons and materials:
 
-![alt text](image-16.png)
-![alt text](image-17.png)
+![alt text](lms-ss/Instructor_add_lesson.png)
+![alt text](lms-ss/Instructor_add_materials.png)
 
 ### Student's interface
 Dashboard:
 
-![alt text](image-10.png)
+![alt text](lms-ss/student-dashboard.png)
 
 Student Enrollment:
 
-![alt text](image-11.png)
+![alt text](lms-ss/student-enrolment.png)
 
 Enrolled Course Details:
 
-![alt text](image-12.png)
-![alt text](image-14.png)
+![alt text](lms-ss/stundent-enrolled-course-view.png)
+
 Students Courses:
 
-![alt text](image-13.png)
+![alt text](lms-ss/stundent-courses-page.png)
 
 ---
 
